@@ -1,2 +1,2 @@
-### Python Implementations of $\pi$ Computation Algorithms
+### Python Implementations of Pi Computation Algorithms
 ### Selected and Organized by Yu Geng
